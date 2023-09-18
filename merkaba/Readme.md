@@ -36,6 +36,6 @@ ViewPort:![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.006.png) ![
 
 
 
-Rendered view:![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.003.png)![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.004.png)![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.005.png)
+Rendered view:![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.003.png)![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.004.png)![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.005.png)
 
-ViewPort:![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.006.png) ![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.007.png)![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.008.png)![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.009.png)![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.010.png)![](Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.011.png)
+ViewPort:![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.006.png) ![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.007.png)![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.008.png)![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.009.png)![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.010.png)![](Image/Aspose.Words.d04963d5-9808-4d93-a715-17a03d4500ae.011.png)
