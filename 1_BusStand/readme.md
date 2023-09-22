@@ -1,10 +1,4 @@
-﻿Name: Kevin Benny
-
-USN no:1941028
-
-Date: 26/7/21
-
-Question: Modelling basic objects using standard primitives
+Modelling basic objects using standard primitives
 
 Basic Steps:
 
@@ -20,8 +14,8 @@ Basic Steps:
 
 6\.  Added base and lamps to make it look more attractive.
 
-7\. Overall became a complete and beautiful design.
+7\. Overall, it became a complete and beautiful design.
 
-Screenshot :(Minimum 4,5 different view)
+Screenshot :
 
 ![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.001.png)![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.002.png)![](Image/Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.003.png)![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.004.png)![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.005.png)![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.006.png)	
