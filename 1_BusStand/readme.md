@@ -24,4 +24,4 @@ Basic Steps:
 
 Screenshot :(Minimum 4,5 different view)
 
-![](Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.001.png)![](Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.002.png)![](Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.003.png)![](Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.004.png)![](Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.005.png)![](Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.006.png)	
+![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.001.png)![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.002.png)![](Image/Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.003.png)![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.004.png)![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.005.png)![](Image/Aspose.Words.6e6e08dc-69e1-4088-a285-291a368a3692.006.png)	
