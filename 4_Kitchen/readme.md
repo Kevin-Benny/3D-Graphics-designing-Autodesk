@@ -1,10 +1,4 @@
-﻿Name: Kevin Benny
-
-USN no:1941028
-
-Date: 08/08/21
-
-Lab 4 : Working with color palette and layers.
+Working with color palette and layers.
 
 Basic Steps:
 
@@ -20,25 +14,25 @@ Grouped and layered the items based on the set. For example the cupboards was gr
 
 5\. Chose the correct color to obtain the realistic image and changed the material to metallic for cupboards and ventilator, ceramic for the tiles, glass for the door of cupboard etc.
 
-Screenshot :(Minimum 4,5 different view)
+Screenshot :
 
-![](Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.001.png)
-
-
-
-![](Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.002.png)
+![](Image/Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.001.png)
 
 
+
+![](Image/Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.002.png)
 
 
 
 
 
 
-Rendered view: ![](Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.003.png)![](Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.004.png)![](Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.005.png)
 
-ViewPort: ![](Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.006.png)
 
-Side view:![](Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.007.png)
+Rendered view: ![](Image/Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.003.png)![](Image/Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.004.png)![](Image/Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.005.png)
 
-![](Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.008.png)
+ViewPort: ![](Image/Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.006.png)
+
+Side view:![](Image/Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.007.png)
+
+![](Image/Aspose.Words.4b0b215b-4fa8-44dd-9e14-57afd4a2f860.008.png)
