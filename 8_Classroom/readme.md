@@ -1,0 +1,41 @@
+Rendering a Scene with layers in the time line.Basic Steps: Dragged and dropped necessary objects.
+
+- Standard primitives used: Box, Tube, Cylinder, Cone, Plane, Geosphere, Circle, Torus
+- Edited the objects accordingly.
+- Modifiers used: Shell, Rotate, Scale, Snap tool, Boolean, Bend, Edit Poly, Twist.
+- Materials: Scanline
+- After 3ds Max creates the camera, create a path in the scene using a spline shape or a NURBS curve. 
+- Note: Text and Section are not generally useful shapes for creating a camera path. 
+- In the Path Control group, click Pick Path, then click the path you created. 
+- Click (Play Animation) or scrub the time slider to see the camera move along the path. 
+- Activate the Perspective viewport, then in the Cameras group, click the Set Viewport to Camera button. Resulting in a Stunning Food Court
+
+Screenshot:
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.001.png)
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.002.png)
+
+
+
+
+
+Camera RENDERED:
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.003.png)
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.004.png)
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.005.png)
+
+
+
+
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.006.png)
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.007.png)
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.008.png)
+
+![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.009.png)![](Image/Aspose.Words.0772cf89-455e-41df-8948-598463fe6957.010.png)
